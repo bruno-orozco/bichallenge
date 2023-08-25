@@ -1942,7 +1942,7 @@ button:focus {
     }
 
     #mainNav {
-        background: #032538!important
+        background: transparent;
     }
 }
 

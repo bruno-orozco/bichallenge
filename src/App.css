@@ -5,7 +5,6 @@
 .section-header {
   background: url('LOGO_BI.svg');
   background-size: 100% auto;
-  background-repeat: no-repeat;
   background-position: top;
   clip-path: url(#topbg);
 }
