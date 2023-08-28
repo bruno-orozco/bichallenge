@@ -2037,8 +2037,7 @@ button:focus {
 }
 
 #mainNav.js-is-sticky,#mainNav.js-is-stuck {
-    padding-top: 15px;
-    padding-bottom: 15px;
+
     height: auto;
 }
 

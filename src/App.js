@@ -74,11 +74,11 @@ function App() {
           </div>
         </div>
       </nav>
-      <div className="App" className="section-header">
+      <div className="section-header">
         <svg width="1440" height="203" className="clipsvg">
           <defs>
-            <clipPath id="topbg" clipPathUnits="objectBoundingBox" transform="scale(0.0006944444444, 0.001245330012)">
-              <path d="M0.222222 0H1440.22V600C1440.22 600 1244.22 800 360.222 800C87.7222 800 27.7222 750 0.222222 695C-27.2778 640 0.222222 0 0.222222 0Z"></path>
+            <clipPath id="topbg" clipPathUnits="objectBoundingBox" transform="scale(0.0006944444444, 0.00115000012)">
+              <path d="M0.222222 0H1640.22V600C1440.22 600 1244.22 800 360.222 800C87.7222 800 27.7222 750 0.222222 695C-27.2778 640 0.222222 0 0.222222 0Z"></path>
             </clipPath>
 
           </defs>
@@ -93,7 +93,7 @@ function App() {
         </svg>
 
 
-        <header >
+        <div >
           <div className="top-section section">
             <div className="section-inner lg-width ">
               <div className="top-section-text">
@@ -109,7 +109,7 @@ function App() {
               </div>
             </div>
           </div>
-        </header>
+        </div>
 
       </div>
       <section id="bases" className="main">

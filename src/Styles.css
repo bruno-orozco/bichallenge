@@ -58,7 +58,7 @@ html,body {
     --sm-width: 600px;
     --med-width: 800px;
     --lg-width: 1200px;
-    --spacing-md: 160px;
+    --spacing-md: 135px;
     --screen-md: 1100px;
     color: var(--primary-color);
     scroll-behavior: smooth;
